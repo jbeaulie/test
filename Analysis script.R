@@ -2,4 +2,5 @@
 df <- data.frame(x=rnorm(n=50), y= rep(LETTERS[1:5], each=10))
 
 #aggregate
-aggregate(x~y, FUN=summary, data=df)
+foo <- aggregate(x~y, FUN=summary, data=df)
+str(foo)
