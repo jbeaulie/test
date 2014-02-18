@@ -16,3 +16,4 @@ ggplot(foo, aes(y,x))+geom_point()
 >>>>>>> aggregate
 
 # just some more changes
+# another change
