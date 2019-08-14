@@ -3,4 +3,4 @@ test
 
 Edit to test stage/commit/push from shell.
 
-Adding some text.  Version 2.
+Adding some text.  Version 3.
