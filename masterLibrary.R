@@ -1,7 +1,6 @@
 # R version 3.6.1 (2020-01-16)
 
 # LIBRARIES---------------
-library(rev)
 library(readxl)  # Not loaded via tidyverse.  For reading Excel files
 library(knitr)   # To knit rmarkdown document
 library(rmarkdown) # render
