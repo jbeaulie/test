@@ -1,10 +1,15 @@
 ---
-title: "Untitled"
+title: "test renv"
+author: "J. Beaulieu"
+date: "2/2/2021"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library('ggplot2')
+library("dplyr")
+library("sf")
 ```
 
 ## R Markdown
