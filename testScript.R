@@ -1,3 +1,3 @@
 # Hello World
 
-# edit from laptop
+# Resolved edit conflict from VM and laptop
