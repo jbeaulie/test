@@ -1,0 +1,4 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+get_data|function|ecf3a9adc1c9db3a
+data_path|stem|ccf1ef5a17498bab|78ba1f949d516b2f|2c530c1562a7fbd1|585116969|data.csv|t20265.8298109711s|s182b|182|file|local|vector|||2.11||
+data|stem|b2f01475abe81bd2|ef2670d68478968f|4da545e51cb36e19|33550471||t20265.8315469831s|s381b|381|rds|local|vector|||0.98||
